@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use CascadeMind, please cite the SemEval-2026 system paper."
+title: "CascadeMind at SemEval-2026 Task 4: A Hybrid Neuro-Symbolic Cascade for Narrative Similarity"
+type: conference-paper
+authors:
+  - family-names: Kawada
+    given-names: Sebastien
+  - family-names: Holyoak
+    given-names: Dylan
+year: 2026
+conference:
+  name: "The 20th International Workshop on Semantic Evaluation (SemEval-2026)"
+repository-code: "https://github.com/epoch-learn/CascadeMind"
+abstract: "CascadeMind is a hybrid neuro-symbolic cascade for SemEval-2026 Task 4 narrative story similarity."
+license: MIT

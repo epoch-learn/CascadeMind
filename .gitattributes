@@ -1,0 +1,3 @@
+# Public release policy:
+# Large data, generated results, API logs, submission bundles, PDFs, and zips
+# are intentionally excluded from git. See data/README.md and docs/public-release.md.

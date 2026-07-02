@@ -1,0 +1,11 @@
+pandas
+google-genai
+pydantic
+nest_asyncio
+tqdm
+httpx
+numpy
+scikit-learn
+scipy
+sentence-transformers
+textblob
